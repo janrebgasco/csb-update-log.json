@@ -1,10 +1,9 @@
 {
-  "latestVersion": "1.2.2",
+  "latestVersion": "1.0",
   "latestVersionCode": 10,
   "url": "https://drive.google.com/file/d/1QJF15_IO7JXAPhgDQ-5W64DmWKAckYf6/view?usp=sharing",
   "releaseNotes": [
     "- First evolution",
-    "- Second evolution",
     "- Bug fixes"
   ]
 }
